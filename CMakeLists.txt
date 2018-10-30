@@ -11,4 +11,4 @@ add_subdirectory(external/FreeGLUT/freeglut/freeglut)
 set(BUILD_UTILS OFF)
 add_subdirectory(external/glew/build/cmake)
 
-add_executable(smooth_opengl3 smooth_opengl3.c)
+add_executable(smooth_opengl3a smooth_opengl3.c)
