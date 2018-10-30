@@ -1,3 +1,6 @@
 [submodule "external/FreeGLUT"]
 	path = external/FreeGLUT
 	url = https://github.com/dcnieho/FreeGLUT.git
+[submodule "external/glew"]
+	path = external/glew
+	url = https://github.com/nigels-com/glew.git
